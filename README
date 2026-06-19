@@ -1,1 +1,44 @@
+# Customer Behavior Analysis Dashboard
 
+This project presents an end-to-end Customer Behavior Analysis Dashboard built in Power BI. The dashboard transforms raw customer transaction data into meaningful business insights through interactive visualizations, KPI tracking, and dynamic filtering to support data-driven decision-making.
+
+
+
+-- Project Overview
+
+The objective of this project is to analyze customer purchasing behavior and business performance by providing insights into customer demographics, subscription trends, revenue distribution, and product category performance through an interactive Power BI dashboard.
+
+
+
+-- Key Dashboard Features
+
+- Customer KPIs including Total Customers and Average Purchase Amount.
+- Revenue analysis across different product categories.
+- Customer subscription distribution and adoption analysis.
+- Sales and revenue comparison by age group.
+- Interactive slicers for Gender, Category, Shipping Type, and Subscription Status.
+- Fully interactive dashboard for dynamic business analysis.
+
+
+
+-- Tools & Technologies
+
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- CSV Dataset
+
+
+
+-- Repository Contents
+
+- `customer_behavior_report_dashboard.pbix` – Power BI dashboard
+- `Dashboard.png` – Dashboard preview
+- `dataset.csv` – Source dataset
+- `README.md` – Project documentation
+
+
+-- Business Value
+
+This dashboard enables stakeholders to monitor customer behavior, identify revenue trends, evaluate subscription performance, and make informed business decisions using interactive data visualizations.
